@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋,Welcome
+Hello! My name is Phạm Hưng, I'm from Hanoi University of Science (from VNU) taking BS in Computer Science.
+I'm very interested in game programming!
+Currently studying Java, C++, trying to dwell in Unity.
+Sophomore
 
 <!--
 **phamhung170104/phamhung170104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
